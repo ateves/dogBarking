@@ -1,6 +1,6 @@
 import random
 
-puppyNamesList = ["Dexter", "Happy", "Cooper"]
+puppyNamesList = ["Cobbler", "Lambda", "Giant"]
 
 def puppyBarks(puppyNamesList):
     
@@ -11,3 +11,5 @@ def puppyBarks(puppyNamesList):
         print("%s barks %s times!" % (x, currentRandomNumber))
 
 puppyBarks(puppyNamesList)
+
+#This program was written by ANTHONY T
